@@ -20,7 +20,7 @@
 // </summary>
 // <copyright file= "INHibernateRepository.cs" company="AllInOne Pte Ltd">
 // Copyright (C) 2010 AllInOne Pte Ltd. All rights reserved.
-// </copyright>
+// </copyright> nagavardhan
 
 #endregion Header
 
