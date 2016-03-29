@@ -22,6 +22,5 @@ E:\OurProject\OurProject\AllInOne.Legal.Entities.BackEnd\obj\Debug\AllInOne.Lega
 E:\OurProject\OurProject\AllInOne.Legal.Entities.BackEnd\obj\Debug\AllInOne.Legal.Entities.BackEnd.pdb
 F:\OurProject\Bin\AllInOne.Legal.Entities.BackEnd.dll
 F:\OurProject\Bin\AllInOne.Legal.Entities.BackEnd.pdb
-F:\OurProject\AllInOne.Legal.Entities.BackEnd\obj\Debug\AllInOne.Legal.Entities.BackEnd.csprojResolveAssemblyReference.cache
 F:\OurProject\AllInOne.Legal.Entities.BackEnd\obj\Debug\AllInOne.Legal.Entities.BackEnd.dll
 F:\OurProject\AllInOne.Legal.Entities.BackEnd\obj\Debug\AllInOne.Legal.Entities.BackEnd.pdb

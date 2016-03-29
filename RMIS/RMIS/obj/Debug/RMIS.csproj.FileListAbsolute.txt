@@ -1,0 +1,5 @@
+F:\RMIS\RMIS\RMIS\bin\RMIS.dll
+F:\RMIS\RMIS\RMIS\bin\RMIS.pdb
+F:\RMIS\RMIS\RMIS\obj\Debug\RMIS.dll
+F:\RMIS\RMIS\RMIS\obj\Debug\RMIS.pdb
+F:\OurProject\RMIS\RMIS\obj\Debug\RMIS.csprojResolveAssemblyReference.cache

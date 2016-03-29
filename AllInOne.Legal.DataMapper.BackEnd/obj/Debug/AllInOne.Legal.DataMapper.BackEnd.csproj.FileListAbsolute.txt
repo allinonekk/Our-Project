@@ -25,6 +25,6 @@ E:\OurProject\OurProject\AllInOne.Legal.DataMapper.BackEnd\obj\Debug\AllInOne.Le
 E:\OurProject\OurProject\AllInOne.Legal.DataMapper.BackEnd\obj\Debug\AllInOne.Legal.DataMapper.BackEnd.pdb
 F:\OurProject\Bin\AllInOne.Legal.DataMapper.BackEnd.dll
 F:\OurProject\Bin\AllInOne.Legal.DataMapper.BackEnd.pdb
-F:\OurProject\AllInOne.Legal.DataMapper.BackEnd\obj\Debug\AllInOne.Legal.DataMapper.BackEnd.csprojResolveAssemblyReference.cache
 F:\OurProject\AllInOne.Legal.DataMapper.BackEnd\obj\Debug\AllInOne.Legal.DataMapper.BackEnd.dll
 F:\OurProject\AllInOne.Legal.DataMapper.BackEnd\obj\Debug\AllInOne.Legal.DataMapper.BackEnd.pdb
+F:\OurProject\AllInOne.Legal.DataMapper.BackEnd\obj\Debug\AllInOne.Legal.DataMapper.BackEnd.csprojResolveAssemblyReference.cache

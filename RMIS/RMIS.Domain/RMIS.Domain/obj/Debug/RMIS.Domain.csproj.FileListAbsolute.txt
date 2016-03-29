@@ -1,0 +1,4 @@
+F:\OurProject\RMIS\Bin\RMIS.Domain.dll
+F:\OurProject\RMIS\Bin\RMIS.Domain.pdb
+F:\OurProject\RMIS\RMIS.Domain\RMIS.Domain\obj\Debug\RMIS.Domain.dll
+F:\OurProject\RMIS\RMIS.Domain\RMIS.Domain\obj\Debug\RMIS.Domain.pdb

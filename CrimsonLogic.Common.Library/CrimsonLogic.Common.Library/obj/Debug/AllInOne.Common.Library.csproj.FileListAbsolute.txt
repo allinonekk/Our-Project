@@ -17,6 +17,5 @@ E:\OurProject\OurProject\CrimsonLogic.Common.Library\CrimsonLogic.Common.Library
 E:\OurProject\OurProject\CrimsonLogic.Common.Library\CrimsonLogic.Common.Library\obj\Debug\AllInOne.Common.Library.pdb
 F:\OurProject\Bin\AllInOne.Common.Library.dll
 F:\OurProject\Bin\AllInOne.Common.Library.pdb
-F:\OurProject\CrimsonLogic.Common.Library\CrimsonLogic.Common.Library\obj\Debug\AllInOne.Common.Library.csprojResolveAssemblyReference.cache
 F:\OurProject\CrimsonLogic.Common.Library\CrimsonLogic.Common.Library\obj\Debug\AllInOne.Common.Library.dll
 F:\OurProject\CrimsonLogic.Common.Library\CrimsonLogic.Common.Library\obj\Debug\AllInOne.Common.Library.pdb

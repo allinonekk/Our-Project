@@ -1,0 +1,5 @@
+F:\OurProject\RMIS\RMIS.Repositories.BackEnd\obj\Debug\RMIS.Repositories.BackEnd.csprojResolveAssemblyReference.cache
+F:\OurProject\RMIS\Bin\RMIS.Repositories.BackEnd.dll
+F:\OurProject\RMIS\Bin\RMIS.Repositories.BackEnd.pdb
+F:\OurProject\RMIS\RMIS.Repositories.BackEnd\obj\Debug\RMIS.Repositories.BackEnd.dll
+F:\OurProject\RMIS\RMIS.Repositories.BackEnd\obj\Debug\RMIS.Repositories.BackEnd.pdb

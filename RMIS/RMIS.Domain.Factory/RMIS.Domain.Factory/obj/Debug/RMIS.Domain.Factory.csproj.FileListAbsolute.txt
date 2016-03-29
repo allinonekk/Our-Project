@@ -1,0 +1,5 @@
+F:\OurProject\RMIS\Bin\RMIS.Domain.Factory.dll
+F:\OurProject\RMIS\Bin\RMIS.Domain.Factory.pdb
+F:\OurProject\RMIS\RMIS.Domain.Factory\RMIS.Domain.Factory\obj\Debug\RMIS.Domain.Factory.csprojResolveAssemblyReference.cache
+F:\OurProject\RMIS\RMIS.Domain.Factory\RMIS.Domain.Factory\obj\Debug\RMIS.Domain.Factory.dll
+F:\OurProject\RMIS\RMIS.Domain.Factory\RMIS.Domain.Factory\obj\Debug\RMIS.Domain.Factory.pdb

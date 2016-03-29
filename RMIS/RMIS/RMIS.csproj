@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{25250813-B179-4581-B085-66E8A58BA27F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RMIS</RootNamespace>
+    <AssemblyName>RMIS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="src\about.html" />
+    <Content Include="src\assets\css\bootmetro-icons.css" />
+    <Content Include="src\assets\css\bootmetro-responsive.css" />
+    <Content Include="src\assets\css\bootmetro-ui-light.css" />
+    <Content Include="src\assets\css\bootmetro.css" />
+    <Content Include="src\assets\css\bootmetro\bootmetro-ui-light.css" />
+    <Content Include="src\assets\css\datepicker.css" />
+    <Content Include="src\assets\css\demo.css" />
+    <Content Include="src\assets\css\docs.css" />
+    <Content Include="src\assets\css\metro-ui-dark.css" />
+    <Content Include="src\assets\css\metro-ui-light.css" />
+    <Content Include="src\assets\css\select2.css" />
+    <Content Include="src\assets\css\site.css" />
+    <Content Include="src\assets\css\_bootmetro.css" />
+    <Content Include="src\assets\css\_metro-ui-dark.css" />
+    <Content Include="src\assets\css\_metro-ui-light.css" />
+    <Content Include="src\assets\font\icomoon.dev.svg" />
+    <Content Include="src\assets\font\IcoMoon.svg" />
+    <Content Include="src\assets\font\LICENSE.txt" />
+    <Content Include="src\assets\font\opensans-bold-webfont.svg" />
+    <Content Include="src\assets\font\opensans-light-webfont.svg" />
+    <Content Include="src\assets\font\opensans-regular-webfont.svg" />
+    <Content Include="src\assets\font\opensans-semibold-webfont.svg" />
+    <Content Include="src\assets\ico\apple-touch-icon-114-precomposed.png" />
+    <Content Include="src\assets\ico\apple-touch-icon-144-precomposed.png" />
+    <Content Include="src\assets\ico\apple-touch-icon-57-precomposed.png" />
+    <Content Include="src\assets\ico\apple-touch-icon-72-precomposed.png" />
+    <Content Include="src\assets\ico\favicon.ico" />
+    <Content Include="src\assets\ico\favicon.png" />
+    <Content Include="src\assets\img\bkg-1.jpg" />
+    <Content Include="src\assets\img\bkg-2.jpg" />
+    <Content Include="src\assets\img\bkg-3.jpg" />
+    <Content Include="src\assets\img\bkg-3.png" />
+    <Content Include="src\assets\img\bkg-4.png" />
+    <Content Include="src\assets\img\bkg-parallax-1.jpg" />
+    <Content Include="src\assets\img\bkg-win8-2.jpg" />
+    <Content Include="src\assets\img\bkg-win8-turquoise.png" />
+    <Content Include="src\assets\img\bkg-win8.jpg" />
+    <Content Include="src\assets\img\bootstrap-mdo-sfmoma-01.jpg" />
+    <Content Include="src\assets\img\bootstrap-mdo-sfmoma-02.jpg" />
+    <Content Include="src\assets\img\bootstrap-mdo-sfmoma-03.jpg" />
+    <Content Include="src\assets\img\btn-metro-donate-transparent.png" />
+    <Content Include="src\assets\img\logo.png" />
+    <Content Include="src\assets\img\progress-indeterminate-dark.gif" />
+    <Content Include="src\assets\img\progress-indeterminate-light.gif" />
+    <Content Include="src\assets\img\progress-indeterminate-ring-dark-small.gif" />
+    <Content Include="src\assets\img\progress-indeterminate-ring-dark.gif" />
+    <Content Include="src\assets\img\progress-indeterminate-ring-light-small.gif" />
+    <Content Include="src\assets\img\progress-indeterminate-ring-light.gif" />
+    <Content Include="src\assets\img\responsive-illustrations.png" />
+    <Content Include="src\assets\img\sample-1.jpg" />
+    <Content Include="src\assets\img\sample-2.jpg" />
+    <Content Include="src\assets\img\sample-3.jpg" />
+    <Content Include="src\assets\img\sample-tiles.png" />
+    <Content Include="src\assets\img\tile.png" />
+    <Content Include="src\assets\img\Windows 8.png" />
+    <Content Include="src\assets\js\bootmetro-charms.js" />
+    <Content Include="src\assets\js\bootmetro-icons-ie7.js" />
+    <Content Include="src\assets\js\bootmetro-panorama.js" />
+    <Content Include="src\assets\js\bootmetro-pivot.js" />
+    <Content Include="src\assets\js\bootstrap-datepicker.js" />
+    <Content Include="src\assets\js\bootstrap.js" />
+    <Content Include="src\assets\js\bootstrap.min.js" />
+    <Content Include="src\assets\js\Chart.min.js" />
+    <Content Include="src\assets\js\demo.js" />
+    <Content Include="src\assets\js\docs.js" />
+    <Content Include="src\assets\js\google-code-prettify\prettify.css" />
+    <Content Include="src\assets\js\google-code-prettify\prettify.js" />
+    <Content Include="src\assets\js\holder.js" />
+    <Content Include="src\assets\js\jquery-1.10.0.js" />
+    <Content Include="src\assets\js\jquery-1.10.0.min.js" />
+    <Content Include="src\assets\js\jquery-migrate-1.2.1.js" />
+    <Content Include="src\assets\js\jquery-migrate-1.2.1.min.js" />
+    <Content Include="src\assets\js\jquery.mousewheel.js" />
+    <Content Include="src\assets\js\jquery.mousewheel.min.js" />
+    <Content Include="src\assets\js\jquery.scrollTo.js" />
+    <Content Include="src\assets\js\jquery.touchSwipe.js" />
+    <Content Include="src\assets\js\jquery.touchSwipe.min.js" />
+    <Content Include="src\assets\js\modernizr-2.6.2.min.js" />
+    <Content Include="src\assets\js\mustache.js" />
+    <Content Include="src\assets\js\perfect-scrollbar.with-mousewheel.min.js" />
+    <Content Include="src\assets\js\select2.min.js" />
+    <Content Include="src\demo-hub.html" />
+    <Content Include="src\demo-list-detail.html" />
+    <Content Include="src\demo-metro-layouts.html" />
+    <Content Include="src\demo-table.html" />
+    <Content Include="src\demo-wizard.html" />
+    <Content Include="src\docs-advanced-components.html" />
+    <Content Include="src\docs-css.html" />
+    <Content Include="src\docs-icons.html" />
+    <Content Include="src\docs-index.html" />
+    <Content Include="src\docs-javascript.html" />
+    <Content Include="src\docs-standard-components.html" />
+    <Content Include="src\index.html" />
+    <Content Include="src\index2.html" />
+    <Content Include="Test.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test.aspx.cs">
+      <DependentUpon>Test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test.aspx.designer.cs">
+      <DependentUpon>Test.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\assets\font\IcoMoon.eot" />
+    <None Include="src\assets\font\IcoMoon.ttf" />
+    <None Include="src\assets\font\IcoMoon.woff" />
+    <None Include="src\assets\font\opensans-bold-webfont.eot" />
+    <None Include="src\assets\font\opensans-bold-webfont.ttf" />
+    <None Include="src\assets\font\opensans-bold-webfont.woff" />
+    <None Include="src\assets\font\opensans-light-webfont.eot" />
+    <None Include="src\assets\font\opensans-light-webfont.ttf" />
+    <None Include="src\assets\font\opensans-light-webfont.woff" />
+    <None Include="src\assets\font\opensans-regular-webfont.eot" />
+    <None Include="src\assets\font\opensans-regular-webfont.ttf" />
+    <None Include="src\assets\font\opensans-regular-webfont.woff" />
+    <None Include="src\assets\font\opensans-semibold-webfont.eot" />
+    <None Include="src\assets\font\opensans-semibold-webfont.ttf" />
+    <None Include="src\assets\font\opensans-semibold-webfont.woff" />
+    <None Include="src\assets\js\.jshintrc" />
+    <None Include="src\assets\js\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AllInOne.Common.DataAccess.NHibernate\AllInOne.Common.DataAccess.NHibernate.csproj">
+      <Project>{418FDED6-080A-4360-BC0E-B01DFFB6E7C4}</Project>
+      <Name>AllInOne.Common.DataAccess.NHibernate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\AllInOne.Common.DataAccess.Utilities\AllInOne.Common.DataAccess.Utilities.csproj">
+      <Project>{D4B6B302-630B-488E-8241-DA7B296B8BA1}</Project>
+      <Name>AllInOne.Common.DataAccess.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\AllInOne.Common.DataAccess\AllInOne.Common.DataAccess.csproj">
+      <Project>{B793909E-FF4C-4C27-8C1B-FA769674AB67}</Project>
+      <Name>AllInOne.Common.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CrimsonLogic.Common.Library\CrimsonLogic.Common.Library\AllInOne.Common.Library.csproj">
+      <Project>{52CAFC75-5DB3-44C6-912A-ED87EB6CEB2E}</Project>
+      <Name>AllInOne.Common.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.Binder.BackEnd\RMIS.Binder.BackEnd\RMIS.Binder.BackEnd.csproj">
+      <Project>{C0D852B7-9B69-43DD-AB12-1611E6D68F67}</Project>
+      <Name>RMIS.Binder.BackEnd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.BootStrapper.BackEnd\RMIS.BootStrapper.BackEnd.csproj">
+      <Project>{E61F2151-0FBA-4414-AF21-32B92DBA4A35}</Project>
+      <Name>RMIS.BootStrapper.BackEnd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.DataMapper.BackEnd\RMIS.DataMapper.BackEnd.csproj">
+      <Project>{4FA95861-0AE6-4A5F-AED2-370978F27E94}</Project>
+      <Name>RMIS.DataMapper.BackEnd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.Domain.Factory\RMIS.Domain.Factory\RMIS.Domain.Factory.csproj">
+      <Project>{D8A2EEE9-F069-46F3-9ADC-A5B872D09982}</Project>
+      <Name>RMIS.Domain.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.Domain\RMIS.Domain\RMIS.Domain.csproj">
+      <Project>{45466F53-B987-4CB9-99F7-690232A451C5}</Project>
+      <Name>RMIS.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.Entities.BackEnd\RMIS.Entities.BackEnd.csproj">
+      <Project>{35E2D4CF-780C-49E5-B14F-B48BB983DAE0}</Project>
+      <Name>RMIS.Entities.BackEnd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.Mediator.BackEnd\RMIS.Mediator.BackEnd.csproj">
+      <Project>{F09F40AB-44B2-4FBA-8ACD-B4BD40D53918}</Project>
+      <Name>RMIS.Mediator.BackEnd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMIS.Repositories.BackEnd\RMIS.Repositories.BackEnd.csproj">
+      <Project>{9A05A7FF-115B-43FD-A4F9-170404B47216}</Project>
+      <Name>RMIS.Repositories.BackEnd</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>61883</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

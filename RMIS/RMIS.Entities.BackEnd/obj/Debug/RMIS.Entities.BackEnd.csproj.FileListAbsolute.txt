@@ -1,0 +1,4 @@
+F:\OurProject\RMIS\Bin\RMIS.Entities.BackEnd.dll
+F:\OurProject\RMIS\Bin\RMIS.Entities.BackEnd.pdb
+F:\OurProject\RMIS\RMIS.Entities.BackEnd\obj\Debug\RMIS.Entities.BackEnd.dll
+F:\OurProject\RMIS\RMIS.Entities.BackEnd\obj\Debug\RMIS.Entities.BackEnd.pdb
